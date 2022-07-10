@@ -1,0 +1,19 @@
+{
+  "name": "mapping_earthquakes",
+  "version": "1.0.0",
+  "description": "## Overview  The goal of this project is to create an interactive map to visualize the magnitudes of earthquakes all over the world for the past week.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jjcode-databootcamp/Mapping_Earthquakes.git"
+  },
+  "author": "jjcode",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jjcode-databootcamp/Mapping_Earthquakes/issues"
+  },
+  "homepage": "https://github.com/jjcode-databootcamp/Mapping_Earthquakes#readme"
+}
