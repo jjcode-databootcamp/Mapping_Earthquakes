@@ -4,7 +4,8 @@
   "description": "## Overview  The goal of this project is to create an interactive map to visualize the magnitudes of earthquakes all over the world for the past week.",
   "main": "index.html",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "index.html"
   },
   "repository": {
     "type": "git",
