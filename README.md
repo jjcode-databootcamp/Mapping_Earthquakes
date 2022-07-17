@@ -32,4 +32,4 @@ The goal of this project is to create an interactive map to visualize the magnit
 
 
  
-
+  Testing Sync 
